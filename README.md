@@ -1,2 +1,2 @@
 # KnowledgeDrivenPapers
-Must-read papers for knowledge-driven applications in recent years
+This is a list of must-read papers for knowledge-driven applications in recent years.

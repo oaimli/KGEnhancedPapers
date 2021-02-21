@@ -1,5 +1,5 @@
 # Papers for Knowledge Graphs Enhanced Applications
-How to integrate symbolic knowledge into the computational framework of real-world applications remains a big challenge. There is a list of papers for knowledge graph-enhanced applications in recent years, including the review of knowledge graphs, knowledge-aware text generation, recommendation, knowledge inference and so on. 
+How to integrate symbolic knowledge into the computational framework of real-world applications remains a big challenge. There is a list of papers for knowledge-graph-enhanced applications in recent years, including the review of knowledge graphs, knowledge-aware text generation, recommendation, knowledge inference and so on. 
 
 More related papers and codes will be continually added on this page. This version is updated on **December 29, 2020**.
 

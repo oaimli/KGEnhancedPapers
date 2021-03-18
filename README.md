@@ -3,9 +3,7 @@ How to integrate symbolic knowledge into the computational framework of real-wor
 
 ## Survey papers
 
-1. [Knowledge Graph] **Knowledge Graph Embedding - A Survey of Approaches and Applications.** Quan Wang, Zhendong Mao, Bin Wang, Li Guo. TKDE 2017. [[paper](https://ieeexplore.ieee.org/document/8047276)]
-2. [Knowledge Graph] **A Survey on Knowledge Graphs: Representation, Acquisition and Applications.** Shaoxiong Ji, Shirui Pan, Erik Cambria, Pekka Marttinen, Philip S. Yu. arXiv 2020. [[paper](https://arxiv.org/pdf/2002.00388)]
-3. [Text Generation] **A Survey of Knowledge-Enhanced Text Generation.** Wenhao Yu, Chenguang Zhu, Zaitang Li, Zhiting Hu, Qingyun Wang, Heng Ji, Meng Jiang. arXiv 2020. [[paper](https://arxiv.org/pdf/2010.04389)]
+1. [Text Generation] **A Survey of Knowledge-Enhanced Text Generation.** Wenhao Yu, Chenguang Zhu, Zaitang Li, Zhiting Hu, Qingyun Wang, Heng Ji, Meng Jiang. arXiv 2020. [[paper](https://arxiv.org/pdf/2010.04389)]
 
 
 

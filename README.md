@@ -80,11 +80,3 @@ How to integrate symbolic knowledge into the computational framework of real-wor
 68. [Summarization] **Boosting Factual Correctness of Abstractive Summarization with Knowledge Graph.** Chenguang Zhu, William Hinthorn, Ruochen Xu, Qingkai Zeng, Michael Zeng, Xuedong Huang, Meng Jiang. arXiv 2020. [[paper](https://arxiv.org/abs/2003.08612)]
 
 
-
-------
-
-There are some other interesting reading lists in related topics:
-
-- Knowledge representation learning, https://github.com/thunlp/KRLPapers
-- Knowledge-enhanced text generation, https://github.com/wyu97/KENLG-Reading
-

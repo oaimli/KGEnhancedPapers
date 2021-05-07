@@ -3,7 +3,7 @@ How to incorporate structural knowledge (i.e., knowledge bases and knowledge gra
 
 ## Survey papers
 
-1. [Text Generation] **A Survey of Knowledge-Enhanced Text Generation.** Wenhao Yu, Chenguang Zhu, Zaitang Li, Zhiting Hu, Qingyun Wang, Heng Ji, Meng Jiang. arXiv 2020. [[paper](https://arxiv.org/pdf/2010.04389)]
+* [Text Generation] **A Survey of Knowledge-Enhanced Text Generation.** Wenhao Yu, Chenguang Zhu, Zaitang Li, Zhiting Hu, Qingyun Wang, Heng Ji, Meng Jiang. arXiv 2020. [[paper](https://arxiv.org/pdf/2010.04389)]
 
 
 

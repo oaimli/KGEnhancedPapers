@@ -1,5 +1,5 @@
-# Papers for Structural Knowledge Enhanced Natural Language Processing
-How to integrate structural knowledge (i.e., knowledge bases and knowledge graphs) into the computational framework of real-world applications remains a big challenge. There is a list of papers for knowledge-graph-enhanced applications in recent years. More related papers and codes will be continually added on this page. This version is updated on **December 29, 2020**.
+# Papers for Incorporating Structural Knowledge into Natural Language Processing
+How to incorporate structural knowledge (i.e., knowledge bases and knowledge graphs) into the computational framework of real-world applications remains a big challenge. There is a list of papers for knowledge-graph-enhanced applications in recent years. More related papers and codes will be continually added on this page. This version is updated on **December 29, 2020**.
 
 ## Survey papers
 

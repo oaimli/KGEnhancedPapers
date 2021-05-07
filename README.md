@@ -80,4 +80,4 @@ How to incorporate structural knowledge (i.e., knowledge bases and knowledge gra
 * [Recommendation system] **DKN: Deep Knowledge-Aware Network for News Recommendation.** Hongwei Wang, Fuzheng Zhang, Xing Xie, Minyi Guo. WWW 2018. [[paper](https://arxiv.org/abs/1801.08284)]
 * [Recommendation system] **Explainable Reasoning over Knowledge Graphs for Recommendation.** Xiang Wang, Dingxian Wang, Canran Xu, Xiangnan He, Yixin Cao, Tat-Seng Chua. AAAI 2019. [[paper](https://arxiv.org/abs/1811.04540)]
 * [Recommendation system] **Collaborative Knowledge Base Embedding for Recommender Systems.** Fuzheng Zhang, Nicholas Jing Yuan, Defu Lian, Xing Xie, Wei-Ying Ma. KDD 2016. [[paper](https://dl.acm.org/doi/10.1145/2939672.2939673)]
-* * [Recommendation system] **KGAT: Knowledge Graph Attention Network for Recommendation.** Xiang Wang, Xiangnan He, Yixin Cao, Meng Liu, Tat-Seng Chua. KDD 2019. [[paper](https://arxiv.org/abs/1905.07854)]
+* [Recommendation system] **KGAT: Knowledge Graph Attention Network for Recommendation.** Xiang Wang, Xiangnan He, Yixin Cao, Meng Liu, Tat-Seng Chua. KDD 2019. [[paper](https://arxiv.org/abs/1905.07854)]

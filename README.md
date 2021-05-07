@@ -39,9 +39,7 @@ How to incorporate structural knowledge (i.e., knowledge bases and knowledge gra
 27. [Text generation] **Incorporating Structured Commonsense Knowledge in Story Completion.** Jiaao Chen, Jianshu Chen, Zhou Yu. AAAI 2019. [[paper](https://ojs.aaai.org//index.php/AAAI/article/view/5183)]
 28. [Text generation] **Story Ending Generation with Incremental Encoding and Commonsense Knowledge.** Jian Guan, Yansen Wang, Minlie Huang. AAAI 2019. [[paper](https://arxiv.org/abs/1808.10113)]
 29. [Summarization] **Exploring Human-Like Reading Strategy for Abstractive Text Summarization.** Min Yang, Qiang Qu, Wenting Tu, Ying Shen, Zhou Zhao, Xiaojun Chen. AAAI 2019. [[paper](https://ojs.aaai.org//index.php/AAAI/article/view/4724)]
-30. [Recommendation system] **Reinforcement Knowledge Graph Reasoning for Explainable Recommendation.** Yikun Xian, Zuohui  Fu, S. Muthukrishnan, Gerard  de Melo, Yongfeng Zhang. SIGIR 2019. [[paper](https://dl.acm.org/doi/10.1145/3331184.3331203)]
-31. [Recommendation system] **Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation.** Hongwei Wang, Fuzheng Zhang, Miao Zhao, Wenjie Li, Xing Xie, Minyi Guo. WWW 2019. [[paper](https://arxiv.org/abs/1901.08907)]
-32. [Recommendation system] **Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preferences.** Yixin Cao, Xiang Wang, Xiangnan He, Zikun hu, Tat-Seng Chua. WWW 2019. [[paper](https://arxiv.org/abs/1902.06236)]
+
 33. [Natural language undersdanding] **Fine-grained Event Categorization with Heterogeneous Graph Convolutional Networks.** Hao Peng, Jianxin Li, Qiran Gong, Yangqiu Song, Yuanxin Ning, Kunfeng Lai, Philip S. Yu. IJCAI 2019. [[paper](https://www.ijcai.org/Proceedings/2019/449)]
 34. [Dialogue system] **Learning to Select Knowledge for Response Generation in Dialog Systems.** Rongzhong Lian, Min Xie, Fan Wang, Jinhua Peng, Hua Wu. IJCAI 2019. [[paper](https://arxiv.org/abs/1902.04911)]
 35. [Recommendation system] **KGAT: Knowledge Graph Attention Network for Recommendation.** Xiang Wang, Xiangnan He, Yixin Cao, Meng Liu, Tat-Seng Chua. KDD 2019. [[paper](https://arxiv.org/abs/1905.07854)]
@@ -80,3 +78,8 @@ How to incorporate structural knowledge (i.e., knowledge bases and knowledge gra
 68. [Summarization] **Boosting Factual Correctness of Abstractive Summarization with Knowledge Graph.** Chenguang Zhu, William Hinthorn, Ruochen Xu, Qingkai Zeng, Michael Zeng, Xuedong Huang, Meng Jiang. arXiv 2020. [[paper](https://arxiv.org/abs/2003.08612)]
 
 
+
+## Other papers
+30. [Recommendation system] **Reinforcement Knowledge Graph Reasoning for Explainable Recommendation.** Yikun Xian, Zuohui  Fu, S. Muthukrishnan, Gerard  de Melo, Yongfeng Zhang. SIGIR 2019. [[paper](https://dl.acm.org/doi/10.1145/3331184.3331203)]
+31. [Recommendation system] **Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation.** Hongwei Wang, Fuzheng Zhang, Miao Zhao, Wenjie Li, Xing Xie, Minyi Guo. WWW 2019. [[paper](https://arxiv.org/abs/1901.08907)]
+32. [Recommendation system] **Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preferences.** Yixin Cao, Xiang Wang, Xiangnan He, Zikun hu, Tat-Seng Chua. WWW 2019. [[paper](https://arxiv.org/abs/1902.06236)]

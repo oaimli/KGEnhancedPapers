@@ -1,4 +1,4 @@
-# Papers for Incorporating Structural Knowledge into Natural Language Processing
+# Papers for Incorporating Structured Knowledge into Natural Language Processing
 How to incorporate structured knowledge (i.e., knowledge bases and knowledge graphs) into the learning framework of machine learning models remains a big challenge. There is a list of papers for knowledge graphs enhanced natural language processing in recent years.
 
 ## Survey papers
